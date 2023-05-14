@@ -2206,11 +2206,11 @@
     display: inline-block;
   }
   .left {
-    color:rgb(189, 138, 67);
+    color:  #00bf72;
     transform: skew(0deg, -15deg);
   }
   .right {
-    color: #fff;
+    color: #b6f3db;
     transform: skew(0deg, 15deg);
   }
   .left .content {
