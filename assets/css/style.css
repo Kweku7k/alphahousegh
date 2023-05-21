@@ -2218,7 +2218,7 @@
     text-align: center;
   }
   .right .content {
-    width: 100vw;
+    width: 100vw; 
     text-align: center;
     transform: translate(-50vw);
   }
