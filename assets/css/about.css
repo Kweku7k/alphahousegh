@@ -363,7 +363,7 @@ h6 {
   height: 100vh;
   background: url("https://i.postimg.cc/jdNZ1KKh/sb6.jpg") top center;
   background-size: cover;
- border-radius:0 0 0 400px;
+
   position: relative;
 }
 
@@ -2188,5 +2188,6 @@ section {
 
 
 /* end */
+
 
 
