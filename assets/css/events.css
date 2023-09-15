@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #e43c5c;
+  color: #b4e43c;
   text-decoration: none;
 }
 
@@ -208,7 +208,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #e43c5c;
+  color: #b4e43c;
 }
 
 .navbar .dropdown:hover>ul {
@@ -348,7 +348,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #e43c5c;
+  color: #a6e43c;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -363,7 +363,7 @@ h6 {
   height: 100vh;
   background: url("https://i.postimg.cc/GhpHDrGd/Whats-App-Image-2023-04-04-at-1-37-52-PM-4.jpg ") top center;
   background-size: cover;
- border-radius:0 0 0 400px;
+ 
   position: relative;
 }
 
@@ -605,7 +605,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #e43c5c;
+  background: #b4e43c;
   top: 0;
   border-radius: 0px;
 }
@@ -617,7 +617,7 @@ section {
 .services .icon i {
   font-size: 48px;
   line-height: 1;
-  color: #e43c5c;
+  color: #b4e43c;
   transition: all 0.3s ease-in-out;
 }
 
@@ -682,7 +682,7 @@ section {
 }
 
 .features .icon-box:hover a {
-  color: #e43c5c;
+  color: #b4e43c;
 }
 
 /*--------------------------------------------------------------
@@ -759,7 +759,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #e43c5c;
+  background: #b4e43c;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -785,7 +785,7 @@ section {
   bottom: -50px;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: #e43c5c;
+  background: #b4e43c;
   padding: 15px 20px;
 }
 
@@ -850,11 +850,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e43c5c;
+  border: 1px solid #b4e43c;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e43c5c;
+  background-color: #b4e43c;
 }
 
 .portfolio-details .portfolio-info {
@@ -1763,7 +1763,7 @@ section {
   font-size: 16px;
   padding: 0 15px;
   margin: -1px;
-  background: #e43c5c;
+  background: #b4e43c;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1793,7 +1793,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #e43c5c;
+  color: #b4e43c;
 }
 
 .blog .sidebar .categories ul a span {
@@ -1823,7 +1823,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a:hover {
-  color: #e43c5c;
+  color: #b4e43c;
 }
 
 .blog .sidebar .recent-posts time {
@@ -1859,8 +1859,8 @@ section {
 
 .blog .sidebar .tags ul a:hover {
   color: #fff;
-  border: 1px solid #e43c5c;
-  background: #e43c5c;
+  border: 1px solid #b4e43c;
+  background: #b4e43c;
 }
 
 .blog .sidebar .tags ul a span {
@@ -1949,7 +1949,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #e43c5c;
+  color: #b4e43c;
 }
 
 #footer .footer-newsletter {
@@ -1989,7 +1989,7 @@ section {
   background: none;
   font-size: 15px;
   padding: 0 22px;
-  background: #e43c5c;
+  background: #b4e43c;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
